@@ -6,7 +6,7 @@
 
         <div class="max-w-2x1">
             <h1 class="text-5xl font-extrabold mb-6">
-                Build Your Dream Web Projects
+                PUSHING CLONE INTO GET
             </h1>
 
             <p class="text-1g mb-8 text-gray-100">
